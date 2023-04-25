@@ -1,3 +1,3 @@
 # Ludo-Party
 # study
-Ludo Game
+Ludo Party
